@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# চেকিং ইনপুট
+# checking inpute
 if [ -z "$1" ]; then
   echo "Usage: $0 <domain>"
   exit 1
@@ -8,7 +8,7 @@ fi
 
 domain=$1
 
-# আউটপুট ফোল্ডার তৈরি
+# Make output folder
 output_dir="$domain/recon"
 mkdir -p $output_dir/{httprobe,potential_takeovers,wayback}
 
