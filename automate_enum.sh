@@ -59,3 +59,22 @@ echo "Takeover checks: $output_dir/potential_takeovers/takeovers.txt"
 echo "Wayback URLs: $output_dir/wayback/urls.txt"
 echo "Wayback Params: $output_dir/wayback/params.txt"
 echo "---------------------------------------"
+echo "Thanks"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
